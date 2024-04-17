@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=header"/>
-<h2 align="center" style="color: #e83d84;">Welcome</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4287f5&height=120&section=header"/>
+<h2 align="center" style="color: #4287f5;">Welcome</h2>
 
 <div align="center">
   <a href="https://github.com/FeRevoltes">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FeRevoltes&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/FeRevoltes">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeRevoltes&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/FeRevoltes/FeRevoltes"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeRevoltes&layout=donut&bg_color=141424&title_color=4287f5&text_color=8ef5fa&icon_color=2596be)](https://github.com/FeRevoltes/FeRevoltes"/>
 </a>
   
 </div>
@@ -33,10 +33,10 @@
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/FeRevoltes/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4287f5&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/FeRevoltes/)
 <p><img src="https://profile-counter.glitch.me/{FeRevoltes}/count.svg" /></p> 
 
 </div>
-<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=footer"/>
+<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4287f5&height=120&section=footer"/>
 
 ![snake gif](https://github.com/FeRevoltes/FeRevoltes/blob/output/github-contribution-grid-snake-dark.svg)
