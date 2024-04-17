@@ -12,7 +12,7 @@
 </div>
 
 ##
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FeRevoltes&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/FeRevoltes/FeRevoltes)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FeRevoltes&bg_color=000000&color=4287f5&line=4c00ff&point=4287f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style="display: inline_block width: 45%"><br>
   <img align="center" alt="FeRevoltes-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
