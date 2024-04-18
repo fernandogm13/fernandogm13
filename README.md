@@ -1,5 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f00ff&height=120&section=header"/>
-<h2 align="center" style="color: #6f00ff;">Welcome</h2>
+<h2 align="center" style="color: #fff;">Welcome</h2>
+
+<div>
+
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6f00ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fernando+Gutierrez+Machado;I'm+20+years+old;I'm+a+Web+Developer+and+Programmer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
   <a href="https://github.com/FeRevoltes">
