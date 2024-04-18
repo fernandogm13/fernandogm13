@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f00ff&height=120&section=header"/>
-<h2 align="center" style="color: #fff;">welcome to my profile!</h2>
+<h2 align="center" style="color: #fff;">Welcome to my profile!</h2>
 
 <div>
 
