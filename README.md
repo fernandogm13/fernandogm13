@@ -4,7 +4,7 @@
 <div>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6f00ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fernando+Gutierrez+Machado;I'm+20+years+old;I'm+a+Web+Developer+and+Programmer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6f00ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Fernando+Gutierrez+Machado;I'm+20+years+old;I'm+a+Web+Developer+and+Programmer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 </div>
 
