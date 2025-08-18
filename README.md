@@ -1,4 +1,4 @@
-### Olá, Eu sou o Fernando Gutierrez
+<h2 align="center" style="color: #e83d84;">Olá, Me chamo Fernando</h2>
 <div align="center">
   <a href="https://github.com/fernandogm13">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fernandogm13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
