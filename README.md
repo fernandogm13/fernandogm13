@@ -15,7 +15,6 @@
   </a>
 </div>
 
-
 ##
 [![Fernando Gutierrez activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fernandogm13&bg_color=0D1117&color=1E90FF&line=00BFFF&point=00BFFF&area=true&hide_border=true)](https://github.com/fernandogm13/fernandogm13)
 
@@ -35,8 +34,7 @@
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/fernandogm13/)
-<p><img src="https://profile-counter.glitch.me/{fernandogm13}/count.svg" /></p> 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github.com/fernandogm13)
+<p><img src="https://profile-counter.glitch.me/fernandogm13/count.svg" /></p>
 
 ![snake gif](https://github.com/jonatasperaza/fernandogm13/blob/output/github-contribution-grid-snake-dark.svg)
