@@ -1,9 +1,7 @@
 <h2 align="center" style="color: #1E90FF;">Ladies And Gentlemen</h2>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Fernando!;Be+welcome!" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Fernando!+Be+welcome!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
