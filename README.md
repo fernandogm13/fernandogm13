@@ -1,3 +1,4 @@
+https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"
 <h2 align="center" style="color: #1E90FF;">Ladies And Gentlemen</h2>
 
 <div align="center">
@@ -36,3 +37,4 @@
 <p><img src="https://profile-counter.glitch.me/fernandogm13/count.svg" /></p>
 
 ![snake gif](https://github.com/fernandogm13/fernandogm13/blob/output/github-contribution-grid-snake-dark.svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
