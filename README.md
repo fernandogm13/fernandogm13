@@ -1,7 +1,9 @@
 <h2 align="center" style="color: #1E90FF;">Ladies And Gentlemen</h2>
 
-<div>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Fernando!;Be+welcome!" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Fernando!;Be+welcome!" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
@@ -33,8 +35,8 @@
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/jonatasperaza/)
-<p><img src="https://profile-counter.glitch.me/{jonatasperaza}/count.svg" /></p> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/fernandogm13/)
+<p><img src="https://profile-counter.glitch.me/{fernandogm13}/count.svg" /></p> 
 
 
-![snake gif](https://github.com/jonatasperaza/jonatasperaza/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/jonatasperaza/fernandogm13/blob/output/github-contribution-grid-snake-dark.svg)
