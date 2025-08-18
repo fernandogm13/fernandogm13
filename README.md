@@ -1,16 +1,18 @@
-<h2 align="center" style="color: #e83d84;">Ladies And Gentlemen</h2>
+<h2 align="center" style="color: #1E90FF;">Ladies And Gentlemen</h2>
 
 <div>
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+my+name+is+Fernando!;Be+Welcome!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Fernando!;Be+welcome!)](https://git.io/typing-svg)
 </div>
+
 <div align="center">
   <a href="https://github.com/fernandogm13">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fernandogm13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fernandogm13&bg_color=0D1117&title_color=1E90FF&text_color=00BFFF" />
   </a>
   <a href="https://github.com/fernandogm13">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogm13&layout=compact&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogm13&layout=compact&bg_color=0D1117&title_color=1E90FF&text_color=00BFFF&icon_color=87CEFA" />
   </a>
 </div>
+
 
 ##
 [![Fernando Gutierrez activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fernandogm13&bg_color=0D1117&color=1E90FF&line=00BFFF&point=00BFFF&area=true&hide_border=true)](https://github.com/fernandogm13/fernandogm13)
