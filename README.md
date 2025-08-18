@@ -37,4 +37,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github.com/fernandogm13)
 <p><img src="https://profile-counter.glitch.me/fernandogm13/count.svg" /></p>
 
-![snake gif](https://github.com/jonatasperaza/fernandogm13/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/fernandogm13/fernandogm13/blob/output/github-contribution-grid-snake-dark.svg)
