@@ -14,3 +14,15 @@
   <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+### Workstation Tools 💻
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/jonatasperaza/)
+<p><img src="https://profile-counter.glitch.me/{jonatasperaza}/count.svg" /></p> 
+
+
+![snake gif](https://github.com/jonatasperaza/jonatasperaza/blob/output/github-contribution-grid-snake-dark.svg)
