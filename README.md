@@ -11,7 +11,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fernandogm13&bg_color=0D1117&title_color=1E90FF&text_color=00BFFF"/>
   </a>
   <a href="https://github.com/fernandogm13">
-    <img height=200 align="center" src="hts://github-readme-stats.vercel.app/api/top-langs/?username=fernandogm13&layout=compact&bg_color=0D1117&title_color=1E90FF&text_color=00BFFF&icon_color=87CEFA"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogm13&layout=compact&bg_color=0D1117&title_color=1E90FF&text_color=00BFFF&icon_color=87CEFA"/>
   </a>
 </div>
 
