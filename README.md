@@ -46,8 +46,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/fernandogm13/fernandogm13/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/fernandogm13/fernandogm13/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
+
 
 
