@@ -33,17 +33,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
-###
-
 <div align="left">
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandogm13/fernandogm13/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandogm13/fernandogm13/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fernandogm13/fernandogm13/output/pacman-contribution-graph.svg">
-</picture>
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fernandogm13.fernandogm13&"  />
+</div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/fernandogm13/fernandogm13/output/snake.svg" alt="Snake animation" />
+
+###
+
+
