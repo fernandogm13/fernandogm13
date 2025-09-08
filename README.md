@@ -18,7 +18,6 @@
 ##
 [![Fernando Gutierrez activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fernandogm13&bg_color=0D1117&color=1E90FF&line=00BFFF&point=00BFFF&area=true&hide_border=true)](https://github.com/fernandogm13/fernandogm13)
 
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
@@ -40,15 +39,12 @@
 
 <br clear="both">
 
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=fernandogm13.fernandogm13&"  />
-</div>
-
-###
 
 ![snake gif](https://github.com/fernandogm13/fernandogm13/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
 
-###
-
-
-
+<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
